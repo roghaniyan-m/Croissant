@@ -4,3 +4,6 @@ nav {
 .navbar-brand svg {
   fill: blueviolet;
 }
+.contact {
+  background-color: rgb(138, 43, 226, 0.1);
+}
