@@ -1,0 +1,6 @@
+nav {
+  border-bottom: 3px solid blueviolet;
+}
+.navbar-brand svg {
+  fill: blueviolet;
+}
