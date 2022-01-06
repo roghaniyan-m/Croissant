@@ -7,3 +7,18 @@ nav {
 .contact {
   background-color: rgb(138, 43, 226, 0.1);
 }
+img {
+  max-height: 400px;
+}
+.card li {
+  list-style-type: none;
+  line-height: 2;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  padding: 10px 5px;
+}
+.card li div:first-child {
+  font-weight: bold;
+}
+.card li:last-child {
+  border: none;
+}
